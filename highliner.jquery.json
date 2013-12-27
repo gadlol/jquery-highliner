@@ -31,6 +31,6 @@
     "docs": "",
     "download": "https://github.com/gadlol/jquery-highliner/archive/master.zip",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.6"
     }
 }
