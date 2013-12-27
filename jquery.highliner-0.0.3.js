@@ -8,7 +8,7 @@
  *
  * Creation Date: 27 9 2010
  * First Release Date: 16 10 2010
- * Last Modification Date: 13 04 2011 
+ * Last Modification Date: 28 12 2013 
  *
  * ChangeLog v0.0.3:
  * 	Added rememberSpaceLine option so highliner can remember space between panels after starting / terminating effect.
