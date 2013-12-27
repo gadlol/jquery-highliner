@@ -1,0 +1,36 @@
+{
+    "name": "highliner",
+    "title": "HighLiner",
+    "description": "HighLiner displays two panels. One above cursor and one bellow, so you can focus only where your cursor is. Its very usefull if you are reading large texts such as paragraphs.",
+    "keywords": [
+        "HighLiner",
+        "cursor",
+	"paragraphs",
+	"animation"
+    ],
+    "version": "0.0.3",
+    "author": {
+        "name": "John Barounis",
+        "url": "http://www.jbaron.gr"
+    },
+    "maintainers": [
+        {
+            "name": "John Barounis",
+            "email": "jbqwerty@gmail.com",
+            "url": "http://jbaron.gr"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/gadlol/jquery-highliner/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/gadlol/jquery-highliner/issues",
+    "homepage": "https://github.com/gadlol/jquery-highliner",
+    "docs": "",
+    "download": "https://github.com/gadlol/jquery-highliner/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
