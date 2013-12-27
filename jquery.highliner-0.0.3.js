@@ -2,7 +2,11 @@
  * jQuery Highliner v0.0.3
  * http://jbaron.gr/
  *
+<<<<<<< HEAD
  * Copyright 2010-2011, Ioannis Barounis
+=======
+ * Copyright 2010-2014, Ioannis Barounis
+>>>>>>> 13e00fa11e1247de468950882e0383711826295c
  *
  * Demo at: http://jbaron.gr/programming/jquery-highliner/
  *
